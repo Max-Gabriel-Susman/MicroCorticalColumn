@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MicroCorticalColumn/1.0.0": {
+        "runtime": {
+          "MicroCorticalColumn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroCorticalColumn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

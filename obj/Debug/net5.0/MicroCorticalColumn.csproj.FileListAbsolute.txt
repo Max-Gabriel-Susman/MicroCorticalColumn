@@ -1,0 +1,15 @@
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.csprojAssemblyReference.cache
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.AssemblyInfoInputs.cache
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.AssemblyInfo.cs
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.csproj.CoreCompileInputs.cache
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/bin/Debug/net5.0/MicroCorticalColumn.deps.json
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/bin/Debug/net5.0/MicroCorticalColumn.runtimeconfig.json
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/bin/Debug/net5.0/MicroCorticalColumn.runtimeconfig.dev.json
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/bin/Debug/net5.0/MicroCorticalColumn.dll
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/bin/Debug/net5.0/ref/MicroCorticalColumn.dll
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/bin/Debug/net5.0/MicroCorticalColumn.pdb
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.dll
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/ref/MicroCorticalColumn.dll
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.pdb
+/Users/prometheus/Desktop/DotNet/MicroCorticalColumn/obj/Debug/net5.0/MicroCorticalColumn.genruntimeconfig.cache
